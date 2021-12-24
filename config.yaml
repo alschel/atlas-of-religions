@@ -1,4 +1,4 @@
-baseUR: "https://alschel.github.io/provocative-landscapes-site/"
+baseURL: "https://alschel.github.io/provocative-landscapes-site/"
 publishDir: "docs"
 relativeURLs: false
 theme: "hugo-PaperMod"
