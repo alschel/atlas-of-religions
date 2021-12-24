@@ -1,0 +1,31 @@
+theme: "hugo-PaperMod"
+baseURL: http://example.org/
+languageCode: en-us
+title: "ПРОВОЦИРУЮЩИЕ\nЛАНДШАФТЫ"
+menu:
+    main:
+        - name: О проекте
+          url: about
+          weight: 5
+        - name: Экспедиции
+          url: archives
+          weight: 10
+        - name: Публикации
+          url: publications
+          weight: 20
+        - name: Теги
+          url: tags/
+          weight: 30
+params:
+    profileMode:
+        enabled: true
+        title: " " # optional default will be site title
+        subtitle: "Исследования культурных повседневных ландшафтов периферии агломераций от Екатеринбурга до Тюмени"
+        imageUrl: "cover.png" # optional
+        #imageTitle: "Ремезо" # optional
+        imageWidth: 97% # custom size
+        imageHeight: 90% # custom size
+    ShowToc: true
+    cover:
+        linkFullImages: true
+
