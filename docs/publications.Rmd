@@ -13,7 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ***
 
 **Корандей Ф. Мы больше не в Коми-Пермяцком: несколько книг по теории краеведения // Сетевое издание «Горький» (gorky.media). 17 декабря 2021 г.**
-
 <https://gorky.media/context/my-bolshe-ne-v-komi-permyatskom/?fbclid=IwAR237ZQHllePzwUCEUUnFUj40ucJf9oPiva8ZIMDv2lCLyHIJ0tc3Rre5rU>{target="_blank"}  
 
 ***
@@ -25,5 +24,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Агапов М.Г., Корандей Ф.С. «Пока Сабетта достраивается…»: практики спонтанной музеефикации в ландшафте ревитализации берега р. Туры в г. Тюмени // Этнографическое обозрение. 2019. № 4. С. 155–172.**
 <https://doi.org/10.31857/S086954150005289-7>{target="_blank"}
+
+***
+
+**Корандей Ф. О любви к Родине: Родное и далекое: слово в защиту краеведения // Гефтер. 13 апреля 2016 г.**
+<http://gefter.ru/archive/18178?fbclid=IwAR1y6PaJOHZCGtNSCwMR5sSW6eOJmgBlIp2Y1XOErgMGD6u19rwWzhzsB0M>{target="_blank"}
 
 ***
