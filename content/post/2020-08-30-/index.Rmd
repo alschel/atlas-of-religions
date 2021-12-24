@@ -1,14 +1,12 @@
 ---
 title: г. Ирбит Свердловской области
 author: Александр Шелудков
-date: '2020-09-30'
-slug: []
-categories: []
+date: '2020-08-30'
 tags:
-  - Свердловская область
-  - Ирбит
-  - Урал
   - города
+  - Ирбит
+  - Свердловская область
+  - Урал
 ---
 
 ![](https://scontent.fhel3-1.fna.fbcdn.net/v/t1.6435-9/118913428_10224014974185813_5901331888709142565_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=NrH9P-rNSAUAX-F20Wo&_nc_ht=scontent.fhel3-1.fna&oh=00_AT9SBDeoLI3jw_yE1U3XocNJGD9Gs2yy6uniofw27c2eJQ&oe=61E893B7){width=100%}
