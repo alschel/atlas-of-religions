@@ -1,7 +1,7 @@
 baseUR: "https://alschel.github.io/provocative-landscapes-site/"
 publishDir: "docs"
+relativeURLs: false
 theme: "hugo-PaperMod"
-baseURL: http://example.org/
 languageCode: en-us
 title: "ПРОВОЦИРУЮЩИЕ\nЛАНДШАФТЫ"
 menu:
