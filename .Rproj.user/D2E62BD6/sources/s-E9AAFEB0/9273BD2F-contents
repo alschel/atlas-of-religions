@@ -1,3 +1,5 @@
+baseUR: "https://alschel.github.io/provocative-landscapes-site/"
+publishDir: "docs"
 theme: "hugo-PaperMod"
 baseURL: http://example.org/
 languageCode: en-us
