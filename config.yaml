@@ -23,7 +23,7 @@ params:
         enabled: true
         title: " " # optional default will be site title
         subtitle: "Исследования культурных повседневных ландшафтов периферии агломераций от Екатеринбурга до Тюмени"
-        imageUrl: "cover.png" # optional
+        imageUrl: "cover.jpg" # optional
         #imageTitle: "Ремезо" # optional
         imageWidth: 97% # custom size
         imageHeight: 90% # custom size
