@@ -27,7 +27,7 @@ params:
         #imageTitle: "Ремезо" # optional
         imageWidth: 97% # custom size
         imageHeight: 90% # custom size
-    ShowToc: true
+    ShowToc: false
     cover:
         linkFullImages: true
 
