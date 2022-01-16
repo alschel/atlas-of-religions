@@ -17,3 +17,5 @@ knitr::opts_chunk$set(echo = TRUE)
 **Участники прокта**: [Федор Корандей](https://www.facebook.com/noctu.vigilus){target="_blank"}, [Илья Абрамов](https://www.facebook.com/ilya.abramov.927){target="_blank"}, [Михаил Агапов](https://www.facebook.com/mike.agapov){target="_blank"}, [Владимир Костомаров](https://www.facebook.com/profile.php?id=100010802830291){target="_blank"}, [Максим Черепанов](https://www.facebook.com/maximcherepanov){target="_blank"}, [Александр Шелудков](https://www.facebook.com/alexander.sheludkov){target="_blank"}. 
 
 Исследование поддержано грантом РФФИ № 20-05-00592 А.
+
+*<i>Иллюстрация на заглавной странице: Чертеж земли Тобольского города из книги Семена Ремезова "Чертежная книга Сибири" (1701 г.)</i>
