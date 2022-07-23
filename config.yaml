@@ -1,4 +1,4 @@
-baseURL: "https://alschel.github.io/provocative-landscapes-site/"
+baseURL: "https://github.com/alschel/atlas-of-religions"
 publishDir: "docs"
 relativeURLs: false
 theme: "hugo-PaperMod"
