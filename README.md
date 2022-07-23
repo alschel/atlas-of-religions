@@ -1,1 +1,1 @@
-Сайт проекта [Провоцирующие ландшафты](https://alschel.github.io/provocative-landscapes-site/)
+Сайт проекта [Религиозный атлас Тюменской области](https://github.com/alschel/atlas-of-religions/)
