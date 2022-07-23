@@ -1,9 +1,9 @@
 {
-    "path" : "/Volumes/G-DRIVE mobile USB-C/Projects/Provocative-Landscapes-Site/content/post",
-    "sortOrder" : [
+    "path": "/Volumes/G-DRIVE mobile USB-C/Projects/Religion_Atlas_of_TyumenOblast/Atlas_of_Religions/themes/hugo-PaperMod/layouts/partials",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }

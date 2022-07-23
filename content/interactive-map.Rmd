@@ -1,0 +1,24 @@
+---
+pagetitle: О проекте
+output:
+  html_document:
+      toc: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Религиозные объединения
+
+Здесь будет интерактивная карта со списком объединений и их характеристиками
+
+
+```{r example map, echo=FALSE}
+library(leaflet)
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=65.526864, lat=57.158275, popup="!")
+m  # Print the map
+```

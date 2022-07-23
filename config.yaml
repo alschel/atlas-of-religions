@@ -3,30 +3,33 @@ publishDir: "docs"
 relativeURLs: false
 theme: "hugo-PaperMod"
 languageCode: en-us
-title: "ПРОВОЦИРУЮЩИЕ\nЛАНДШАФТЫ"
+title: "Атлас религиозного ландшафта Тюменской области"
 menu:
     main:
         - name: О проекте
           url: about
           weight: 5
-        - name: Экспедиции
-          url: archives
+        - name: Карта религиозных объединений
+          url: interactive-map
           weight: 10
+        - name: Тематические карты
+          url: thematic-maps
+          weight: 20
         - name: Публикации
           url: publications
-          weight: 20
-        - name: Теги
-          url: tags/
           weight: 30
 params:
     profileMode:
         enabled: true
         title: " " # optional default will be site title
-        subtitle: "Исследования культурных повседневных ландшафтов периферии агломераций от Екатеринбурга до Тюмени"
+        subtitle: "заменить картинку "
         imageUrl: "cover.jpg" # optional
         #imageTitle: "Ремезо" # optional
         imageWidth: 97% # custom size
         imageHeight: 90% # custom size
+    # homeInfoParams:
+    #     title: Атлас религиозного ландшафта Тюменской области
+    #     Content: Проект поддержан
     ShowToc: false
     cover:
         linkFullImages: true
