@@ -1,1 +1,1 @@
-Сайт проекта [Религиозный атлас Тюменской области](https://github.com/alschel/atlas-of-religions/)
+Сайт проекта [Религиозный атлас Тюменской области](https://alschel.github.io/atlas-of-religions/)
