@@ -6,6 +6,54 @@
     <description>Recent content on Атлас религиозного ландшафта Тюменской области</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://alschel.github.io/atlas-of-religions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://alschel.github.io/atlas-of-religions/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alschel.github.io/atlas-of-religions/about/</guid>
+      <description>…
+“Атлас религиозного ландшафта Тюменской области” - междисциплинарный проект, цель которого - …
+…
+Участники проекта: Максим Черепанов, Гульнара Мавлютова, Роман Поплавский, Владимир Костомаров, Александр Шелудков.
+Исследование поддержано грантом РФФИ и Тюменской области № 20-45-720004.
+Иллюстрация на заглавной странице: … (с)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alschel.github.io/atlas-of-religions/interactive-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alschel.github.io/atlas-of-religions/interactive-map/</guid>
+      <description>       Религиозные объединения Здесь будет интерактивная карта со списком объединений и их характеристиками
+ {&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,null,null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; OpenStreetMap contributors, CC-BY-SA&#34;}]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[57.158275,65.526864,null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;!&#34;,null,null,null,null,{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]}],&#34;limits&#34;:{&#34;lat&#34;:[57.158275,57.158275],&#34;lng&#34;:[65.526864,65.526864]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alschel.github.io/atlas-of-religions/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alschel.github.io/atlas-of-religions/publications/</guid>
+      <description>Статьи в академических журналах
+Поплавский Р.О., Черепанов М.С., Бобров И.В., Шишелякина А.Л. Протестантский ландшафт Тюменской области: места, численность и демографический состав городских молитвенных собраний // Вестник археологии, антропологии и этнографии. 2022. № 2(57). С. 191-201.
+https://doi.org/10.20874/2071-0437-2022-57-2-15
+  Подробнее   Представлены результаты полевого исследования, проведенного в Тюмени, Тобольске, Ишиме и Ялуторовске (Россия, Тюменская область). Показаны численность и демографические особенности протестантских еженедельных молитвенных собраний. Установлено, что наиболее крупная группа прихожан - женщины среднего возраста.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://alschel.github.io/atlas-of-religions/thematic-maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alschel.github.io/atlas-of-religions/thematic-maps/</guid>
+      <description>Карта конфессиональной представленности территории Показывает, сколько, в каких районах религиозных объединений и объектов конкретных конфессий.
+ Объекты с охранным статусом Показывает, где находятся культовые объекты с охранным статусом и их характеристики (из паспорта).
+ Религиозные организации Карта связей местных религиозных организаций (МРО) и культовых объектов (КО) с централизованными религиозными организациями (ЦРО). Показывает к какой ЦРО относятся конкретные мро и ко.
+ Религиозные общины Карта соотношения численных характеристик общин. Показывает местонахождение многочисленных, среднечисленных и малочисленных общин.</description>
+    </item>
+    
     
   </channel>
 </rss>
