@@ -1,5 +1,5 @@
 ---
-pagetitle: О проекте
+pagetitle: "Религиозные объединения"
 output:
   html_document:
     toc: false
