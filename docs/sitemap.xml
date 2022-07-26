@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alschel.github.io/atlas-of-religions/about/</loc>
-  </url><url>
     <loc>https://alschel.github.io/atlas-of-religions/categories/</loc>
   </url><url>
     <loc>https://alschel.github.io/atlas-of-religions/tags/</loc>
   </url><url>
     <loc>https://alschel.github.io/atlas-of-religions/</loc>
+  </url><url>
+    <loc>https://alschel.github.io/atlas-of-religions/publications/</loc>
   </url><url>
     <loc>https://alschel.github.io/atlas-of-religions/archives/</loc>
   </url>

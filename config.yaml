@@ -30,7 +30,7 @@ params:
     # homeInfoParams:
     #     title: Атлас религиозного ландшафта Тюменской области
     #     Content: Проект поддержан
-    ShowToc: false
+    ShowToc: true
     cover:
         linkFullImages: true
 

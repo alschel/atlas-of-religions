@@ -2,7 +2,7 @@
 pagetitle: О проекте
 output:
   html_document:
-      toc: no
+    toc: false
 ---
 
 ```{r setup, include=FALSE}
